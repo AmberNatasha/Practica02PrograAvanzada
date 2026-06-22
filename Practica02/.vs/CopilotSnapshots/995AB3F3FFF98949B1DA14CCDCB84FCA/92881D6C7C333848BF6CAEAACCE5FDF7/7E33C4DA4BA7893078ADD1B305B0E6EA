@@ -1,0 +1,17 @@
+﻿using Practica02.API.Data;
+using Practica02.API.Models;
+
+namespace Practica02.API.Repositories
+{
+    public class ClienteRepository : IClienteRepository
+    {
+        private readonly IDbConnectionFactory _dbConnectionFactory;
+
+        public ClienteRepository(IDbConnectionFactory dbConnectionFactory)
+        {
+            _dbConnectionFactory = dbConnectionFactory;
+        }
+
+        // CRUD methods will be implemented later using Dapper and stored procedures
+    }
+}

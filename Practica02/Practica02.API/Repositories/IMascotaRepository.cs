@@ -1,0 +1,14 @@
+using Practica02.API.Models;
+
+namespace Practica02.API.Repositories
+{
+    public interface IMascotaRepository
+    {
+        Task<IEnumerable<Mascota>> ObtenerTodas();
+        Task<Mascota?> ObtenerPorId(long idMascota);
+        Task<IEnumerable<Mascota>> ObtenerPorIdCliente(long idCliente);
+        Task<long> Crear(Mascota mascota);
+        Task<bool> Actualizar(Mascota mascota);
+        Task<bool> Eliminar(long idMascota);
+    }
+}

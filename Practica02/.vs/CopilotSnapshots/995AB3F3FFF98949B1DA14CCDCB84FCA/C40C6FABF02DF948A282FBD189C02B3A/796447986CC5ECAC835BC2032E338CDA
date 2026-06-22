@@ -1,0 +1,25 @@
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace Practica02.Controllers
+{
+    public class MascotasController : Controller
+    {
+        // GET: Mascotas/Registrar
+        public IActionResult Registrar()
+        {
+            ViewBag.Mensaje = "Formulario de Registro de Mascotas";
+            return View();
+        }
+
+        // POST: Mascotas/Registrar
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Registrar(IFormCollection collection)
+        {
+            // TODO: Implementar lógica de registro de mascotas
+            TempData["Mensaje"] = "Funcionalidad de Registro de Mascotas próximamente.";
+            TempData["Tipo"] = "info";
+            return RedirectToAction(nameof(Registrar));
+        }
+    }
+}

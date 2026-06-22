@@ -1,0 +1,89 @@
+﻿using Practica02.API.Data;
+using Practica02.API.Models;
+using Dapper;
+using System.Data;
+
+namespace Practica02.API.Repositories
+{
+    public class ClienteRepository : IClienteRepository
+    {
+        private readonly IDbConnectionFactory _dbConnectionFactory;
+
+        public ClienteRepository(IDbConnectionFactory dbConnectionFactory)
+        {
+            _dbConnectionFactory = dbConnectionFactory;
+        }
+
+        public async Task<IEnumerable<Cliente>> ObtenerTodos()
+        {
+            using (var connection = _dbConnectionFactory.CreateConnection())
+            {
+                const string query = "SELECT IdCliente, Cedula, Nombre, Correo, Estado FROM dbo.Clientes";
+                return await connection.QueryAsync<Cliente>(query);
+            }
+        }
+
+        public async Task<Cliente?> ObtenerPorId(long idCliente)
+        {
+            using (var connection = _dbConnectionFactory.CreateConnection())
+            {
+                const string query = "SELECT IdCliente, Cedula, Nombre, Correo, Estado FROM dbo.Clientes WHERE IdCliente = @IdCliente";
+                return await connection.QueryFirstOrDefaultAsync<Cliente>(query, new { IdCliente = idCliente });
+            }
+        }
+
+        public async Task<Cliente?> ObtenerPorCedula(string cedula)
+        {
+            using (var connection = _dbConnectionFactory.CreateConnection())
+            {
+                const string query = "SELECT IdCliente, Cedula, Nombre, Correo, Estado FROM dbo.Clientes WHERE Cedula = @Cedula";
+                return await connection.QueryFirstOrDefaultAsync<Cliente>(query, new { Cedula = cedula });
+            }
+        }
+
+        public async Task<long> Crear(Cliente cliente)
+        {
+            using (var connection = _dbConnectionFactory.CreateConnection())
+            {
+                const string query = @"
+                    INSERT INTO dbo.Clientes (Cedula, Nombre, Correo, Estado)
+                    VALUES (@Cedula, @Nombre, @Correo, @Estado);
+                    SELECT CAST(SCOPE_IDENTITY() as bigint);";
+
+                var id = await connection.QuerySingleAsync<long>(query, new
+                {
+                    cliente.Cedula,
+                    cliente.Nombre,
+                    cliente.Correo,
+                    cliente.Estado
+                });
+
+                return id;
+            }
+        }
+
+        public async Task<bool> Actualizar(Cliente cliente)
+        {
+            using (var connection = _dbConnectionFactory.CreateConnection())
+            {
+                const string query = @"
+                    UPDATE dbo.Clientes 
+                    SET Cedula = @Cedula, Nombre = @Nombre, Correo = @Correo, Estado = @Estado
+                    WHERE IdCliente = @IdCliente";
+
+                var result = await connection.ExecuteAsync(query, cliente);
+                return result > 0;
+            }
+        }
+
+        public async Task<bool> Eliminar(long idCliente)
+        {
+            using (var connection = _dbConnectionFactory.CreateConnection())
+            {
+                const string query = "DELETE FROM dbo.Clientes WHERE IdCliente = @IdCliente";
+                var result = await connection.ExecuteAsync(query, new { IdCliente = idCliente });
+                return result > 0;
+            }
+        }
+    }
+}

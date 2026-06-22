@@ -1,0 +1,129 @@
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace Practica02.API.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class MascotasController : ControllerBase
+    {
+        // DTO para la respuesta de verificación
+        public class MascotaVerificacionDto
+        {
+            public int Id { get; set; }
+            public string? Cedula { get; set; }
+            public string? NombreCliente { get; set; }
+            public string? NombreMascota { get; set; }
+            public string? Especie { get; set; }
+            public string? Raza { get; set; }
+            public decimal Peso { get; set; }
+        }
+
+        // Datos simulados de mascotas con información del cliente
+        private static readonly List<MascotaVerificacionDto> MascotasSimuladas = new()
+        {
+            new MascotaVerificacionDto 
+            { 
+                Id = 1, 
+                Cedula = "123456789", 
+                NombreCliente = "Juan García", 
+                NombreMascota = "Fido", 
+                Especie = "Perro", 
+                Raza = "Labrador", 
+                Peso = 25.5m 
+            },
+            new MascotaVerificacionDto 
+            { 
+                Id = 2, 
+                Cedula = "123456789", 
+                NombreCliente = "Juan García", 
+                NombreMascota = "Misu", 
+                Especie = "Gato", 
+                Raza = "Siamés", 
+                Peso = 4.2m 
+            },
+            new MascotaVerificacionDto 
+            { 
+                Id = 3, 
+                Cedula = "987654321", 
+                NombreCliente = "María López", 
+                NombreMascota = "Rex", 
+                Especie = "Perro", 
+                Raza = "Pastor Alemán", 
+                Peso = 35.0m 
+            },
+            new MascotaVerificacionDto 
+            { 
+                Id = 4, 
+                Cedula = "456789123", 
+                NombreCliente = "Carlos Martínez", 
+                NombreMascota = "Tweety", 
+                Especie = "Pájaro", 
+                Raza = "Canario", 
+                Peso = 0.5m 
+            },
+            new MascotaVerificacionDto 
+            { 
+                Id = 5, 
+                Cedula = "789123456", 
+                NombreCliente = "Ana Rodríguez", 
+                NombreMascota = "Nemo", 
+                Especie = "Pez", 
+                Raza = "Pez Payaso", 
+                Peso = 0.1m 
+            }
+        };
+
+        /// <summary>
+        /// Verifica si existen mascotas registradas para una cédula específica.
+        /// </summary>
+        /// <param name="cedula">Número de cédula del cliente</param>
+        /// <returns>Lista de mascotas asociadas a la cédula</returns>
+        [HttpGet("verificar/{cedula}")]
+        public ActionResult<IEnumerable<MascotaVerificacionDto>> Verificar(string cedula)
+        {
+            if (string.IsNullOrWhiteSpace(cedula))
+            {
+                return BadRequest(new { mensaje = "La cédula es requerida." });
+            }
+
+            var mascotas = MascotasSimuladas
+                .Where(m => m.Cedula == cedula.Trim())
+                .ToList();
+
+            if (mascotas.Count == 0)
+            {
+                return NotFound(new { mensaje = $"No se encontraron mascotas para la cédula {cedula}." });
+            }
+
+            return Ok(mascotas);
+        }
+
+        /// <summary>
+        /// Obtiene todas las mascotas registradas.
+        /// </summary>
+        /// <returns>Lista completa de mascotas</returns>
+        [HttpGet]
+        public ActionResult<IEnumerable<MascotaVerificacionDto>> ObtenerTodas()
+        {
+            return Ok(MascotasSimuladas);
+        }
+
+        /// <summary>
+        /// Obtiene una mascota específica por ID.
+        /// </summary>
+        /// <param name="id">ID de la mascota</param>
+        /// <returns>Datos de la mascota</returns>
+        [HttpGet("{id}")]
+        public ActionResult<MascotaVerificacionDto> ObtenerPorId(int id)
+        {
+            var mascota = MascotasSimuladas.FirstOrDefault(m => m.Id == id);
+
+            if (mascota == null)
+            {
+                return NotFound(new { mensaje = $"No se encontró mascota con ID {id}." });
+            }
+
+            return Ok(mascota);
+        }
+    }
+}

@@ -1,0 +1,16 @@
+﻿using Practica02.API.Repositories;
+
+namespace Practica02.API.Services
+{
+    public class MascotaService : IMascotaService
+    {
+        private readonly IMascotaRepository _mascotaRepository;
+
+        public MascotaService(IMascotaRepository mascotaRepository)
+        {
+            _mascotaRepository = mascotaRepository;
+        }
+
+        // Business logic will be added later
+    }
+}

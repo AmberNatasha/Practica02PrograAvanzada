@@ -1,0 +1,10 @@
+﻿using Practica02.API.Models;
+using System.Collections.Generic;
+
+namespace Practica02.API.Repositories
+{
+    public interface IClienteRepository
+    {
+        // Define repository method signatures here when implementing
+    }
+}

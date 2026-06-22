@@ -1,0 +1,62 @@
+@model Practica02.Models.Cliente
+
+@{
+    ViewData["Title"] = "Registro de Clientes";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-6">
+            <div class="card shadow-lg">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">Registrar Nuevo Cliente</h4>
+                </div>
+                <div class="card-body">
+                    @if (TempData["Mensaje"] != null)
+                    {
+                        <div class="alert alert-@(TempData["Tipo"] ?? "info") alert-dismissible fade show" role="alert">
+                            @TempData["Mensaje"]
+                            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                        </div>
+                    }
+
+                    <form method="post" asp-action="Registrar" asp-controller="Clientes">
+                        @Html.AntiForgeryToken()
+
+                        <div class="mb-3">
+                            <label asp-for="Cedula" class="form-label"></label>
+                            <input asp-for="Cedula" class="form-control" placeholder="Ej: 123456789" />
+                            <span asp-validation-for="Cedula" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Nombre" class="form-label"></label>
+                            <input asp-for="Nombre" class="form-control" placeholder="Ej: Juan García" />
+                            <span asp-validation-for="Nombre" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Correo" class="form-label"></label>
+                            <input asp-for="Correo" class="form-control" placeholder="Ej: juan@example.com" />
+                            <span asp-validation-for="Correo" class="text-danger small"></span>
+                        </div>
+
+                        <button type="submit" class="btn btn-primary w-100">
+                            <i class="bi bi-check-circle"></i> Registrar Cliente
+                        </button>
+                    </form>
+                </div>
+            </div>
+
+            <div class="alert alert-info mt-3" role="alert">
+                <strong>Nota:</strong> Los datos del formulario se validarán. Completa todos los campos requeridos.
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

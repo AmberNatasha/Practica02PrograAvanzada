@@ -1,0 +1,14 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "Practica02": "Server=localhost;Database=Practica2;User Id=sa;Password=Your_password123;TrustServerCertificate=True;"
+  }
+}
+
+

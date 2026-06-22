@@ -1,0 +1,637 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\views\\mascotas\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\views\\mascotas\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\views\\consultas\\mascotas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\views\\consultas\\mascotas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\views\\consultas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\views\\consultas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\views\\clientes\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\views\\clientes\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\practica02.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\practica02.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\services\\mascotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\services\\mascotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\services\\imascotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\services\\imascotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\services\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\repositories\\mascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\repositories\\mascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\repositories\\imascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\repositories\\imascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\practica02.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\practica02.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\usuario\\onedrive\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practica02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-21T23:22:56.671Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Practica02\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Practica02\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T01:42:22.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Practica02\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Practica02\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T01:42:21.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Practica02\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Practica02\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T01:42:20.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Practica02\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Practica02\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T01:42:20.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Practica02.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\appsettings.json",
+              "RelativeToolTip": "Practica02.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-21T21:14:48.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Practica02.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\appsettings.Development.json",
+              "RelativeToolTip": "Practica02.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-22T01:41:43.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practica02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practica02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T01:42:19.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Mascotas\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "Practica02\\Views\\Mascotas\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Mascotas\\Registrar.cshtml",
+              "RelativeToolTip": "Practica02\\Views\\Mascotas\\Registrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T01:42:16.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Practica02\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Practica02\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T01:42:13.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mascotas.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Consultas\\Mascotas.cshtml",
+              "RelativeDocumentMoniker": "Practica02\\Views\\Consultas\\Mascotas.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Consultas\\Mascotas.cshtml",
+              "RelativeToolTip": "Practica02\\Views\\Consultas\\Mascotas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T01:42:10.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Consultas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica02\\Views\\Consultas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Consultas\\Index.cshtml",
+              "RelativeToolTip": "Practica02\\Views\\Consultas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T01:42:09.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Models\\Mascota.cs",
+              "RelativeDocumentMoniker": "Practica02\\Models\\Mascota.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Models\\Mascota.cs",
+              "RelativeToolTip": "Practica02\\Models\\Mascota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:42:03.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Practica02\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Models\\Cliente.cs",
+              "RelativeToolTip": "Practica02\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:41:57.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MascotasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Controllers\\MascotasController.cs",
+              "RelativeDocumentMoniker": "Practica02\\Controllers\\MascotasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Controllers\\MascotasController.cs",
+              "RelativeToolTip": "Practica02\\Controllers\\MascotasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:41:56.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Practica02\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Practica02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:41:55.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsultasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Controllers\\ConsultasController.cs",
+              "RelativeDocumentMoniker": "Practica02\\Controllers\\ConsultasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Controllers\\ConsultasController.cs",
+              "RelativeToolTip": "Practica02\\Controllers\\ConsultasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:41:54.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Clientes\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "Practica02\\Views\\Clientes\\Registrar.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Clientes\\Registrar.cshtml",
+              "RelativeToolTip": "Practica02\\Views\\Clientes\\Registrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-21T23:06:43.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Practica02\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Practica02\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:41:53.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Practica02.API.http",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Practica02.API.http",
+              "RelativeDocumentMoniker": "Practica02.API\\Practica02.API.http",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Practica02.API.http",
+              "RelativeToolTip": "Practica02.API\\Practica02.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-22T01:41:45.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMascotaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Repositories\\IMascotaRepository.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Repositories\\IMascotaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Repositories\\IMascotaRepository.cs",
+              "RelativeToolTip": "Practica02.API\\Repositories\\IMascotaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T21:14:13.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MascotaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Repositories\\MascotaRepository.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Repositories\\MascotaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Repositories\\MascotaRepository.cs",
+              "RelativeToolTip": "Practica02.API\\Repositories\\MascotaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T21:14:18.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Practica02.API\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T21:14:30.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Services\\IClienteService.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Services\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Services\\IClienteService.cs",
+              "RelativeToolTip": "Practica02.API\\Services\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T21:14:22.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMascotaService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Services\\IMascotaService.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Services\\IMascotaService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Services\\IMascotaService.cs",
+              "RelativeToolTip": "Practica02.API\\Services\\IMascotaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T21:14:26.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MascotaService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Services\\MascotaService.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Services\\MascotaService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Services\\MascotaService.cs",
+              "RelativeToolTip": "Practica02.API\\Services\\MascotaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T21:14:34.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Repositories\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Repositories\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Repositories\\IClienteRepository.cs",
+              "RelativeToolTip": "Practica02.API\\Repositories\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T21:14:06.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Practica02.API\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T21:14:09.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Models\\Mascota.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Models\\Mascota.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Models\\Mascota.cs",
+              "RelativeToolTip": "Practica02.API\\Models\\Mascota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:41:13.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Models\\Cliente.cs",
+              "RelativeToolTip": "Practica02.API\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T21:13:58.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Practica02.API\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:41:01.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MascotasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Controllers\\MascotasController.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Controllers\\MascotasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Controllers\\MascotasController.cs",
+              "RelativeToolTip": "Practica02.API\\Controllers\\MascotasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T01:41:00.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Data\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Data\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Data\\DbConnectionFactory.cs",
+              "RelativeToolTip": "Practica02.API\\Data\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T21:13:54.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Program.cs",
+              "RelativeDocumentMoniker": "Practica02\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Program.cs",
+              "RelativeToolTip": "Practica02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T23:36:47.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Practica02.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Practica02.API.csproj",
+              "RelativeDocumentMoniker": "Practica02.API\\Practica02.API.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Practica02.API.csproj",
+              "RelativeToolTip": "Practica02.API\\Practica02.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-21T21:11:04.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\appsettings.json",
+              "RelativeDocumentMoniker": "Practica02\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\appsettings.json",
+              "RelativeToolTip": "Practica02\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-21T23:36:57.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

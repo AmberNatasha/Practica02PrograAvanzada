@@ -1,0 +1,9 @@
+﻿using Practica02.API.Models;
+
+namespace Practica02.API.Repositories
+{
+    public interface IMascotaRepository
+    {
+        // Define repository method signatures here when implementing
+    }
+}

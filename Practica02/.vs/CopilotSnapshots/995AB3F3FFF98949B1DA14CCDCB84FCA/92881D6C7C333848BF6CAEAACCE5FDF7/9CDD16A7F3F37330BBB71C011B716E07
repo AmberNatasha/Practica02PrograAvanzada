@@ -1,0 +1,14 @@
+﻿using Practica02.API.Models;
+
+namespace Practica02.API.Services
+{
+    public interface IMascotaService
+    {
+        Task<IEnumerable<Mascota>> ObtenerTodasAsync();
+        Task<Mascota?> ObtenerPorIdAsync(long idMascota);
+        Task<IEnumerable<Mascota>> ObtenerPorIdClienteAsync(long idCliente);
+        Task<long> CrearAsync(Mascota mascota);
+        Task<bool> ActualizarAsync(Mascota mascota);
+        Task<bool> EliminarAsync(long idMascota);
+    }
+}

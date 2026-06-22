@@ -1,0 +1,61 @@
+using Practica02.API.Repositories;
+using Practica02.API.Models;
+
+namespace Practica02.API.Services
+{
+    public class ClienteService : IClienteService
+    {
+        private readonly IClienteRepository _clienteRepository;
+
+        public ClienteService(IClienteRepository clienteRepository)
+        {
+            _clienteRepository = clienteRepository;
+        }
+
+        public async Task<IEnumerable<Cliente>> ObtenerTodosAsync()
+        {
+            return await _clienteRepository.ObtenerTodos();
+        }
+
+        public async Task<Cliente?> ObtenerPorIdAsync(long idCliente)
+        {
+            return await _clienteRepository.ObtenerPorId(idCliente);
+        }
+
+        public async Task<Cliente?> ObtenerPorCedulaAsync(string cedula)
+        {
+            return await _clienteRepository.ObtenerPorCedula(cedula);
+        }
+
+        public async Task<long> CrearAsync(Cliente cliente)
+        {
+            if (cliente == null)
+                throw new ArgumentNullException(nameof(cliente));
+
+            // Validaciones de negocio
+            if (string.IsNullOrWhiteSpace(cliente.Cedula))
+                throw new InvalidOperationException("La cédula no puede estar vacía.");
+
+            if (string.IsNullOrWhiteSpace(cliente.Nombre))
+                throw new InvalidOperationException("El nombre no puede estar vacío.");
+
+            if (string.IsNullOrWhiteSpace(cliente.Correo))
+                throw new InvalidOperationException("El correo no puede estar vacío.");
+
+            return await _clienteRepository.Crear(cliente);
+        }
+
+        public async Task<bool> ActualizarAsync(Cliente cliente)
+        {
+            if (cliente == null)
+                throw new ArgumentNullException(nameof(cliente));
+
+            return await _clienteRepository.Actualizar(cliente);
+        }
+
+        public async Task<bool> EliminarAsync(long idCliente)
+        {
+            return await _clienteRepository.Eliminar(idCliente);
+        }
+    }
+}

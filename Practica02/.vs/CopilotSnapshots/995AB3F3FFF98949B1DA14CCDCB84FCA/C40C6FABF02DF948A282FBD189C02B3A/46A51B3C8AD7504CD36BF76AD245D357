@@ -1,0 +1,14 @@
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace Practica02.Controllers
+{
+    public class ConsultasController : Controller
+    {
+        // GET: Consultas/Index
+        public IActionResult Index()
+        {
+            ViewBag.Mensaje = "Módulo de Consultas";
+            return View();
+        }
+    }
+}
