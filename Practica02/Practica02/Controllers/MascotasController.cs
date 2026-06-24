@@ -115,5 +115,23 @@ namespace Practica02.Controllers
             ViewBag.Clientes = clientesList;
             return View(mascota);
         }
+
+        // GET: Mascotas/Consulta
+        public async Task<IActionResult> Consulta()
+        {
+            try
+            {
+                var apiUrl = _configuration["ApiSettings:BaseUrl"] ?? "http://localhost:5120";
+                var endpoint = $"{apiUrl}/api/mascotas/consulta";
+
+                var mascotas = await _httpClient.GetFromJsonAsync<List<MascotaConsulta>>(endpoint);
+
+                return View(mascotas ?? new List<MascotaConsulta>());
+            }
+            catch
+            {
+                return View(new List<MascotaConsulta>());
+            }
+        }
     }
 }

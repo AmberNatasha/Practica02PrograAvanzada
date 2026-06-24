@@ -162,6 +162,22 @@ namespace Practica02.API.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, new { mensaje = "Error al eliminar mascota" });
             }
         }
+
+        [HttpGet("consulta")]
+        public async Task<ActionResult<IEnumerable<MascotaConsulta>>> ConsultarMascotas()
+        {
+            try
+            {
+                var mascotas = await _mascotaService.ConsultarMascotasAsync();
+                return Ok(mascotas);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error al consultar mascotas");
+                return StatusCode(StatusCodes.Status500InternalServerError,
+                    new { mensaje = "Error al consultar mascotas" });
+            }
+        }
     }
 }
 

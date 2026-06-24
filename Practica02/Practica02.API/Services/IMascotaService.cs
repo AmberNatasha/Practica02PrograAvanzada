@@ -7,6 +7,7 @@ namespace Practica02.API.Services
         Task<IEnumerable<Mascota>> ObtenerTodasAsync();
         Task<Mascota?> ObtenerPorIdAsync(long idMascota);
         Task<IEnumerable<Mascota>> ObtenerPorIdClienteAsync(long idCliente);
+        Task<IEnumerable<MascotaConsulta>> ConsultarMascotasAsync();
         Task<long> CrearAsync(Mascota mascota);
         Task<bool> ActualizarAsync(Mascota mascota);
         Task<bool> EliminarAsync(long idMascota);

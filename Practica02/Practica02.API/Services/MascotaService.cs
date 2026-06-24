@@ -19,6 +19,11 @@ namespace Practica02.API.Services
             return await _mascotaRepository.ObtenerTodas();
         }
 
+        public async Task<IEnumerable<MascotaConsulta>> ConsultarMascotasAsync()
+        {
+            return await _mascotaRepository.ConsultarMascotas();
+        }
+
         public async Task<Mascota?> ObtenerPorIdAsync(long idMascota)
         {
             return await _mascotaRepository.ObtenerPorId(idMascota);

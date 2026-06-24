@@ -91,5 +91,15 @@ namespace Practica02.API.Repositories
                 return result > 0;
             }
         }
+
+        public async Task<IEnumerable<MascotaConsulta>> ConsultarMascotas()
+        {
+            using (var connection = _dbConnectionFactory.CreateConnection())
+            {
+                return await connection.QueryAsync<MascotaConsulta>(
+                    "dbo.sp_ConsultarMascotas",
+                    commandType: CommandType.StoredProcedure);
+            }
+        }
     }
 }

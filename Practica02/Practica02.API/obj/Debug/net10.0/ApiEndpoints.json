@@ -268,5 +268,25 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Practica02.API.Controllers.MascotasController",
+    "Method": "ConsultarMascotas",
+    "RelativePath": "api/Mascotas/consulta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Practica02.API.Models.MascotaConsulta, Practica02.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

@@ -1,0 +1,44 @@
+﻿@using System.Linq
+@model IEnumerable<Practica02.Models.MascotaConsulta>
+
+@{
+    ViewData["Title"] = "Consulta de Mascotas";
+}
+
+<h2>Consulta de Mascotas</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Cédula</th>
+            <th>Cliente</th>
+            <th>Mascota</th>
+            <th>Especie</th>
+            <th>Peso</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Cedula</td>
+                    <td>@item.NombreCliente</td>
+                    <td>@item.NombreMascota</td>
+                    <td>@item.Especie</td>
+                    <td>@item.Peso</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" class="text-center">
+                    No hay mascotas registradas.
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

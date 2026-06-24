@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Practica02.API.csproj": {}
+    "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Practica02.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Practica02.API.csproj": {
+    "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Practica02.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Practica02.API.csproj",
+        "projectUniqueName": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Practica02.API.csproj",
         "projectName": "Practica02.API",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Practica02.API.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\obj\\",
+        "projectPath": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Practica02.API.csproj",
+        "packagesPath": "C:\\Users\\informatica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\informatica\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
