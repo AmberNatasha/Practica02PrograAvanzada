@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Practica02",
+    "\\Practica02\\Practica02",
+    "\\Practica02\\Practica02.API"
   ],
+  "SelectedNode": "\\Practica02\\Practica02\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\",
+  "WorkspaceRootPath": "C:\\Users\\kevin\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\informatica\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\views\\mascotas\\consulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\views\\mascotas\\consulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\kevin\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\models\\mascotaconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\models\\mascotaconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\informatica\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\kevin\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\informatica\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\models\\mascotaconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\models\\mascotaconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\kevin\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\services\\imascotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\services\\imascotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\informatica\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\kevin\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\services\\mascotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\services\\mascotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\informatica\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\kevin\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\repositories\\imascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\repositories\\imascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|c:\\users\\informatica\\documents\\github\\practica02prograavanzada\\practica02\\practica02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46E89BFC-CE2C-5D91-B60B-1F24DE19EDA3}|Practica02\\Practica02.csproj|solutionrelative:practica02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|c:\\users\\kevin\\documents\\github\\practica02prograavanzada\\practica02\\practica02.api\\repositories\\mascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44781905-6F3D-4EB3-8736-2B0C99C517FD}|Practica02.API\\Practica02.API.csproj|solutionrelative:practica02.api\\repositories\\mascotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,90 +33,320 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 269,
+          "SelectedChildIndex": 56,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Practica02\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Practica02\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-24T17:58:38.375Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Consulta.cshtml",
-              "DocumentMoniker": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Mascotas\\Consulta.cshtml",
-              "RelativeDocumentMoniker": "Practica02\\Views\\Mascotas\\Consulta.cshtml",
-              "ToolTip": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Views\\Mascotas\\Consulta.cshtml",
-              "RelativeToolTip": "Practica02\\Views\\Mascotas\\Consulta.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-24T17:57:43.772Z",
+              "Title": "MascotaConsulta.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Models\\MascotaConsulta.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Models\\MascotaConsulta.cs",
+              "ToolTip": "C:\\Users\\kevin\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Models\\MascotaConsulta.cs",
+              "RelativeToolTip": "Practica02.API\\Models\\MascotaConsulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T03:16:38.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MascotaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Repositories\\MascotaRepository.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Repositories\\MascotaRepository.cs",
+              "ToolTip": "C:\\Users\\kevin\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Repositories\\MascotaRepository.cs",
+              "RelativeToolTip": "Practica02.API\\Repositories\\MascotaRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAqwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T01:15:10.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMascotaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Repositories\\IMascotaRepository.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Repositories\\IMascotaRepository.cs",
+              "ToolTip": "C:\\Users\\kevin\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Repositories\\IMascotaRepository.cs",
+              "RelativeToolTip": "Practica02.API\\Repositories\\IMascotaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T01:15:09.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MascotaService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Services\\MascotaService.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Services\\MascotaService.cs",
+              "ToolTip": "C:\\Users\\kevin\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Services\\MascotaService.cs",
+              "RelativeToolTip": "Practica02.API\\Services\\MascotaService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T01:15:04.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMascotaService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Services\\IMascotaService.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Services\\IMascotaService.cs",
+              "ToolTip": "C:\\Users\\kevin\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Services\\IMascotaService.cs",
+              "RelativeToolTip": "Practica02.API\\Services\\IMascotaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T01:15:03.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MascotasController.cs",
-              "DocumentMoniker": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Controllers\\MascotasController.cs",
-              "RelativeDocumentMoniker": "Practica02\\Controllers\\MascotasController.cs",
-              "ToolTip": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Controllers\\MascotasController.cs",
-              "RelativeToolTip": "Practica02\\Controllers\\MascotasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kevin\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Controllers\\MascotasController.cs",
+              "RelativeDocumentMoniker": "Practica02.API\\Controllers\\MascotasController.cs",
+              "ToolTip": "C:\\Users\\kevin\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02.API\\Controllers\\MascotasController.cs",
+              "RelativeToolTip": "Practica02.API\\Controllers\\MascotasController.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAKUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T17:56:30.627Z",
+              "WhenOpened": "2026-06-25T01:15:00.355Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MascotaConsulta.cs",
-              "DocumentMoniker": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Models\\MascotaConsulta.cs",
-              "RelativeDocumentMoniker": "Practica02\\Models\\MascotaConsulta.cs",
-              "ToolTip": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Models\\MascotaConsulta.cs",
-              "RelativeToolTip": "Practica02\\Models\\MascotaConsulta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T17:56:07.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Practica02\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Practica02\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T17:55:22.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Mascota.cs",
-              "DocumentMoniker": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Models\\Mascota.cs",
-              "RelativeDocumentMoniker": "Practica02\\Models\\Mascota.cs",
-              "ToolTip": "C:\\Users\\informatica\\Documents\\GitHub\\Practica02PrograAvanzada\\Practica02\\Practica02\\Models\\Mascota.cs",
-              "RelativeToolTip": "Practica02\\Models\\Mascota.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T17:55:01.506Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

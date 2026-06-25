@@ -1,4 +1,7 @@
-CREATE OR ALTER PROCEDURE dbo.sp_ConsultarMascotas
+USE Practica2;
+GO
+
+CREATE PROCEDURE dbo.sp_ConsultarMascotas
 AS
 BEGIN
     SET NOCOUNT ON;
@@ -15,3 +18,6 @@ BEGIN
     ORDER BY c.Nombre, m.Nombre;
 END
 GO
+
+
+EXEC dbo.sp_ConsultarMascotas
