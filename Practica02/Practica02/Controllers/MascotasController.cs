@@ -77,7 +77,7 @@ namespace Practica02.Controllers
                         mascota.Especie,
                         mascota.Raza,
                         mascota.Peso,
-                        IdCliente = mascota.ClienteId
+                        IdCliente = mascota.IdCliente
                     };
 
                     using (var response = await _httpClient.PostAsJsonAsync(endpoint, mascotaDto))

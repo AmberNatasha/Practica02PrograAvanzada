@@ -48,15 +48,15 @@
                         </div>
 
                         <div class="mb-3">
-                            <label asp-for="ClienteId" class="form-label"></label>
-                            <select asp-for="ClienteId" class="form-select">
+                            <label asp-for="IdCliente" class="form-label"></label>
+                            <select asp-for="IdCliente" class="form-select">
                                 <option value="">-- Selecciona un cliente --</option>
                                 @foreach (var cliente in ViewBag.Clientes ?? new List<Practica02.Models.Cliente>())
                                 {
                                     <option value="@cliente.IdCliente">@cliente.Nombre (Cédula: @cliente.Cedula)</option>
                                 }
                             </select>
-                            <span asp-validation-for="ClienteId" class="text-danger small"></span>
+                            <span asp-validation-for="IdCliente" class="text-danger small"></span>
                         </div>
 
                         <button type="submit" class="btn btn-success w-100">

@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Build
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# NuGet
+packages/
+
+# ASP.NET
+wwwroot/lib/

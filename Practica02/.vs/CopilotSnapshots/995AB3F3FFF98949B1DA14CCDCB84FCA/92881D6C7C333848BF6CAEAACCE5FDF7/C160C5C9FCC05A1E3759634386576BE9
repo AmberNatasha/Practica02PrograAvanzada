@@ -1,9 +1,0 @@
-﻿using Practica02.API.Models;
-
-namespace Practica02.API.Services
-{
-    public interface IMascotaService
-    {
-        // Define service method signatures when implementing
-    }
-}

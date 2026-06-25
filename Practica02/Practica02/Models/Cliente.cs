@@ -4,7 +4,7 @@ namespace Practica02.Models
 {
     public class Cliente
     {
-        public int Id { get; set; }
+        public int IdCliente { get; set; }
 
         [Required(ErrorMessage = "La cédula es requerida")]
         [StringLength(50, ErrorMessage = "La cédula no puede exceder 50 caracteres")]

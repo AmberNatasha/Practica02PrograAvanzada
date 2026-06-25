@@ -4,7 +4,7 @@ namespace Practica02.Models
 {
     public class Mascota
     {
-        public int Id { get; set; }
+        public int IdMascota { get; set; }
 
         [Required(ErrorMessage = "El nombre de la mascota es requerido")]
         [StringLength(100, ErrorMessage = "El nombre no puede exceder 100 caracteres")]
@@ -28,7 +28,7 @@ namespace Practica02.Models
 
         [Required(ErrorMessage = "Debe seleccionar un cliente")]
         [Display(Name = "Cliente")]
-        public int ClienteId { get; set; }
+        public int IdCliente { get; set; }
 
         // Propiedad de navegación (será llenada cuando se implemente la BD)
         public virtual Cliente? Cliente { get; set; }
