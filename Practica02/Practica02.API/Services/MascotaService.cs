@@ -57,6 +57,11 @@ namespace Practica02.API.Services
             if (cliente == null)
                 throw new InvalidOperationException($"No existe cliente con ID {mascota.IdCliente}.");
 
+            var cantidad = await _mascotaRepository.ContarPorEspecie(mascota.Especie);
+
+            if (cantidad >= 2)
+                throw new InvalidOperationException("Solo se permiten registrar dos mascotas de la misma especie.");
+
             return await _mascotaRepository.Crear(mascota);
         }
 

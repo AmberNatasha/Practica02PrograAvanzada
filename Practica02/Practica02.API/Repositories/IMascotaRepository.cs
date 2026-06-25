@@ -8,6 +8,7 @@ namespace Practica02.API.Repositories
         Task<Mascota?> ObtenerPorId(long idMascota);
         Task<IEnumerable<Mascota>> ObtenerPorIdCliente(long idCliente);
         Task<IEnumerable<MascotaConsulta>> ConsultarMascotas();
+        Task<int> ContarPorEspecie(string especie);
         Task<long> Crear(Mascota mascota);
         Task<bool> Actualizar(Mascota mascota);
         Task<bool> Eliminar(long idMascota);

@@ -42,6 +42,12 @@ namespace Practica02.API.Services
             if (string.IsNullOrWhiteSpace(cliente.Correo))
                 throw new InvalidOperationException("El correo no puede estar vacío.");
 
+            // Validar que la cédula no exista
+            var clienteExistente = await _clienteRepository.ObtenerPorCedula(cliente.Cedula);
+
+            if (clienteExistente != null)
+                throw new InvalidOperationException("Ya existe un cliente registrado con esa cédula.");
+
             return await _clienteRepository.Crear(cliente);
         }
 

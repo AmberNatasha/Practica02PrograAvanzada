@@ -49,6 +49,19 @@ namespace Practica02.API.Repositories
             }
         }
 
+        public async Task<int> ContarPorEspecie(string especie)
+        {
+            using (var connection = _dbConnectionFactory.CreateConnection())
+            {
+                const string query = @"
+            SELECT COUNT(*)
+            FROM dbo.Mascotas
+            WHERE Especie = @Especie";
+
+                return await connection.ExecuteScalarAsync<int>(query, new { Especie = especie });
+            }
+        }
+
         public async Task<long> Crear(Mascota mascota)
         {
             using (var connection = _dbConnectionFactory.CreateConnection())
